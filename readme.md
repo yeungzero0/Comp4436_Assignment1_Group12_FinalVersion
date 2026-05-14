@@ -1,8 +1,8 @@
 # COMP4436 Assignment 1  
-Group member:
-Yeung Hang (22027226d) [me]
-Yeung Tsz Kwan (23103029d)
-Chan Kin Wang (23031551d)
+Group member:  
+Yeung Hang (22027226d) [me]  
+Yeung Tsz Kwan (23103029d)   
+Chan Kin Wang (23031551d)  
 **Comparative Analysis of ML, DL and SNN Algorithms for Cat vs Dog Image Classification**
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
@@ -59,6 +59,7 @@ Chan Kin Wang (23031551d)
 ```bash
 pip install --user --upgrade pip
 pip install numpy opencv-python pandas seaborn tensorflow matplotlib scikit-learn scikit-image keras nengo python-time
+```
 ---
 Setup python and VsCode
 1.ensure the python is 3.9.x Version (if not install 3.9.x, go to "https://www.python.org/downloads/" and find 3.9.x Version
