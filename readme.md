@@ -41,6 +41,9 @@ Chan Kin Wang (23031551d)
 - 完整比較 **Accuracy、Precision、Recall、F1-Score、Execution Time**
 - **SNN × CNN** 結合 CNN 特徵提取與 SNN 脈衝神經網路，展現 AIoT 應用潛力（能量效率高、即時處理、噪音容忍度佳）
 
+
+![image](https://github.com/yeungzero0/Comp4436_Assignment1_Group12_FinalVersion/blob/main/CatDog2025_Timg.png)
+
 ---
 
 ## 如何運行專案
@@ -56,10 +59,7 @@ Chan Kin Wang (23031551d)
 4. 按 **F1** 選擇 Python 3.9.x 作為 interpreter
 5. 在 VSCode 終端機（Ctrl + `）執行以下指令安裝所需套件：
 
-```bash
-pip install --user --upgrade pip
-pip install numpy opencv-python pandas seaborn tensorflow matplotlib scikit-learn scikit-image keras nengo python-time
-```
+
 ---  
 Setup python and VsCode  
 1.ensure the python is 3.9.x Version (if not install 3.9.x, go to "https://www.python.org/downloads/" and find 3.9.x Version  
